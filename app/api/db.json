@@ -1,0 +1,29 @@
+{
+  "iller": [
+    {
+      "id": "6",
+      "adi": "Ankara"
+    },
+    {
+      "id": "34",
+      "adi": "İstanbul"
+    }
+  ],
+  "ilceler": [
+    {
+      "id": "1",
+      "adi": "Yeni Mahalle",
+      "ilId": "6"
+    },
+    {
+      "id": "2",
+      "adi": "Etimesgut",
+      "ilId": "6"
+    },
+    {
+      "id": "2",
+      "adi": "Esenyurt",
+      "ilId": "34"
+    }
+  ]
+}
